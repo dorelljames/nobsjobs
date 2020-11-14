@@ -1,0 +1,29 @@
+Perishable Job Posts
+
+  - post a job 
+    - list a few requirements
+    - make it beautiful 
+
+The idea is to quickly create shareable job posts. It doesn't have to be sophisticated but just contains the basic detail of the job. enough info for applicants to check out. 
+
+Example: Junior React Dev, Part-time, 25k/month.
+Additional info can be supplied but description is limited to 250 characters. We don't want our applicants to read a bible.
+We don't want allow embedding external links. We want applicants and recruiter to interact right there for the benefit of applicant and everyone interested on the job.
+
+This post notifies everyone involved in real time thru SMS, Email, or other means possible.
+
+---
+
+Goals:
+
+1. Become goto job post site for every recruiter that they can share on chats like messenger, or any public domain.
+2. Goto job search for applicants. Job posts will by default posted as public so that any applicants can see the conversation and details. It is important that events happen real-time.
+
+
+Technical Goals
+
+- Real-time
+- Fast / Loads in an instant like dev.to
+
+
+
